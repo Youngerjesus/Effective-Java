@@ -22,3 +22,5 @@
 - [아이템 7 - 다 쓴 객체 참조를 해제하라](item7.md)
 
 - [아이템 8 - finalizer 와 cleaner 사용을 피하라](item8.md)
+
+- [아이템 9 - try-finally 보다는 try-with-resources 를 사용하라](item9.md)
